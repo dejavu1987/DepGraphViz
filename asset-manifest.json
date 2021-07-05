@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f4d988d.chunk.css",
-    "main.js": "/static/js/main.69ef51a7.chunk.js",
-    "main.js.map": "/static/js/main.69ef51a7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f26a6395.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f26a6395.js.map",
-    "static/js/2.f2fa5264.chunk.js": "/static/js/2.f2fa5264.chunk.js",
-    "static/js/2.f2fa5264.chunk.js.map": "/static/js/2.f2fa5264.chunk.js.map",
-    "static/js/3.c3048e6d.chunk.js": "/static/js/3.c3048e6d.chunk.js",
-    "static/js/3.c3048e6d.chunk.js.map": "/static/js/3.c3048e6d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8f4d988d.chunk.css.map": "/static/css/main.8f4d988d.chunk.css.map",
-    "static/js/2.f2fa5264.chunk.js.LICENSE.txt": "/static/js/2.f2fa5264.chunk.js.LICENSE.txt"
+    "main.css": "/DepGraphViz/static/css/main.8f4d988d.chunk.css",
+    "main.js": "/DepGraphViz/static/js/main.69ef51a7.chunk.js",
+    "main.js.map": "/DepGraphViz/static/js/main.69ef51a7.chunk.js.map",
+    "runtime-main.js": "/DepGraphViz/static/js/runtime-main.53f1190b.js",
+    "runtime-main.js.map": "/DepGraphViz/static/js/runtime-main.53f1190b.js.map",
+    "static/js/2.f2fa5264.chunk.js": "/DepGraphViz/static/js/2.f2fa5264.chunk.js",
+    "static/js/2.f2fa5264.chunk.js.map": "/DepGraphViz/static/js/2.f2fa5264.chunk.js.map",
+    "static/js/3.c3048e6d.chunk.js": "/DepGraphViz/static/js/3.c3048e6d.chunk.js",
+    "static/js/3.c3048e6d.chunk.js.map": "/DepGraphViz/static/js/3.c3048e6d.chunk.js.map",
+    "index.html": "/DepGraphViz/index.html",
+    "static/css/main.8f4d988d.chunk.css.map": "/DepGraphViz/static/css/main.8f4d988d.chunk.css.map",
+    "static/js/2.f2fa5264.chunk.js.LICENSE.txt": "/DepGraphViz/static/js/2.f2fa5264.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f26a6395.js",
+    "static/js/runtime-main.53f1190b.js",
     "static/js/2.f2fa5264.chunk.js",
     "static/css/main.8f4d988d.chunk.css",
     "static/js/main.69ef51a7.chunk.js"
