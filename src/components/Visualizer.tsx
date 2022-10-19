@@ -69,7 +69,7 @@ const Visualizer: FunctionComponent<{ endpoint: string }> = ({
     const service = serviceConfigs[node.id];
 
     service.arguments?.forEach((arg: string) => {
-      const argKey = arg.replace('@', '');
+      const argKey = arg?.replace('@', '');
       if (serviceConfigs.hasOwnProperty(argKey)) {
         links.push({
           source: node.id,
