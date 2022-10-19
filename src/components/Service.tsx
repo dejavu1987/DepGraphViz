@@ -1,5 +1,5 @@
-import { FunctionComponent } from 'react';
-import { extractTags } from '../lib/helpers';
+import { FunctionComponent } from "react";
+import { extractTags } from "../lib/helpers";
 
 export type ServiceProps = {
   name: string;
@@ -23,7 +23,7 @@ const Service: FunctionComponent<ServiceProps> = ({
       <details open={open}>
         <summary>
           <h3>
-            {name}{' '}
+            {name}{" "}
             {class_ &&
               extractTags(class_).map(([tag, color]) => (
                 <span className="tag" style={{ backgroundColor: color }}>
@@ -38,7 +38,7 @@ const Service: FunctionComponent<ServiceProps> = ({
           {arguments_ && (
             <ul className="arguments-list">
               {arguments_.map((arg) => {
-                const argKey = arg.replace('@', '');
+                const argKey = arg?.replace("@", "");
 
                 if (serviceConfigs.hasOwnProperty(argKey)) {
                   const {
